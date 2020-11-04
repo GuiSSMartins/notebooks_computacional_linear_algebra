@@ -1,1 +1,3 @@
 # notebooks_computacional_linear_algebra
+
+_UNFINISHED_
